@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eco_green">#FF2E7D32</color>
+    <color name="eco_green_light">#FF4CAF50</color>
+    <color name="eco_green_pale">#FFE8F5E9</color>
+    <color name="ocean_teal">#FF00695C</color>
+    <color name="ocean_teal_light">#FF26A69A</color>
+    <color name="sun_yellow">#FFFDD835</color>
+    <color name="sun_orange">#FFFF6F00</color>
+    <color name="deep_earth">#FF1B1B1B</color>
+    <color name="soil_brown">#FF5D4037</color>
+    <color name="cloud_white">#FFF5F5F5</color>
+    <color name="mist_gray">#FF9E9E9E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

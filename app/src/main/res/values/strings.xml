@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EcoQuest</string>
+    <string name="login_tagline">Learn. Play. Protect the Planet.</string>
+    <string name="login_button">Begin Your Journey</string>
+    <string name="good_morning">Good Morning! 🌿</string>
+    <string name="eco_hero">Eco Hero</string>
+    <string name="daily_challenge">DAILY CHALLENGE</string>
+    <string name="quick_quiz">QUICK QUIZ</string>
+    <string name="continue_learning">Continue Learning</string>
+    <string name="featured_course">Featured Course</string>
+    <string name="see_all">See All</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_quizzes">Quizzes</string>
+    <string name="nav_ranks">Ranks</string>
+    <string name="nav_profile">Profile</string>
+    <string name="chatbot_name">Sprout AI</string>
+    <string name="chatbot_subtitle">Your Eco Guide</string>
+    <string name="chatbot_greeting">Hi there! I\'m Sprout 🌱, your EcoQuest guide. Have any questions about nature, climate, or our app?</string>
+    <string name="chatbot_error">Oops! My vines got tangled. Could you try asking again? 🍂</string>
+    <string name="chatbot_fallback">I\'m not sure how to answer that right now! 🌿</string>
+    <string name="chatbot_typing">Sprout is typing…</string>
+    <string name="chatbot_placeholder">Ask me anything…</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="next_question">Next Question</string>
+    <string name="finish_quiz">Finish Quiz</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="weekly">Weekly</string>
+    <string name="all_time">All Time</string>
+    <string name="courses_title">Courses</string>
+    <string name="search_placeholder">Search for topics…</string>
+    <string name="knowledge_quizzes">Knowledge Quizzes</string>
+    <string name="knowledge_test">Knowledge Test</string>
+    <string name="select_topic">1. Select Topic</string>
+    <string name="select_difficulty">2. Select Difficulty</string>
+    <string name="play">Play</string>
+    <string name="go">Go!</string>
+
+    <!--
+      IMPORTANT: Replace the value below with your Google Web Client ID
+      found in Firebase Console -> Authentication -> Sign-in method -> Google
+    -->
+    <string name="default_web_client_id">PASTE_YOUR_WEB_CLIENT_ID_HERE.apps.googleusercontent.com</string>
+</resources>
